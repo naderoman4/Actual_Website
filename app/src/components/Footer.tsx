@@ -44,13 +44,13 @@ export default function Footer() {
               <p>11 rue Emile Brault</p>
               <p>53000 Laval, France</p>
               <p className="mt-3">
-                <a href="mailto:guillaume.neronbancel@groupeactual.eu" className="hover:text-white transition-colors">
-                  guillaume.neronbancel@groupeactual.eu
+                <a href="mailto:contact@sport-demo.fr" className="hover:text-white transition-colors">
+                  contact@sport-demo.fr
                 </a>
               </p>
               <p>
-                <a href="tel:+33243012034" className="hover:text-white transition-colors">
-                  +33 2 43 01 20 34
+                <a href="tel:+33100000000" className="hover:text-white transition-colors">
+                  +33 1 00 00 00 00
                 </a>
               </p>
             </div>
